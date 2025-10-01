@@ -2,3 +2,5 @@ streamlit
 pandas
 schedule
 openpyxl
+flake8
+pytest
