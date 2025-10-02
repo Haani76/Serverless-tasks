@@ -5,3 +5,8 @@ A simple web app to automate tasks like backups and reports.
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the app: `streamlit run app.py`
+
+# Hosting
+
+## This app is being hosted at Streamlit : 
+https://serverless-tasks-ckno7anqtzqvyxjs6zcg8r.streamlit.app/
